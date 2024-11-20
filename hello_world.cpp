@@ -2,11 +2,12 @@
 using namespace std;
 
 int main(){
-	
+
+	//комментарий1
 	string name;
 	cin >> name;
-
-	cout << "Hello World, " << name;
+	//комментарий2
+	cout << "Hello World, " << name; //комментарий3
 
 	return 0;
 }
